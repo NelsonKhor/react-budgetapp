@@ -1,8 +1,14 @@
 import './App.css';
+import BudgetItem from './components/BudgetItem';
 
 function App() {
   return (
-    <h1>Budgeting App</h1>
+    <div>
+      <h1>Budgeting App</h1>
+      <BudgetItem />
+      <BudgetItem />
+      <BudgetItem />
+    </div>
   );
 }
 
