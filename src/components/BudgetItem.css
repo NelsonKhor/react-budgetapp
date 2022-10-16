@@ -1,0 +1,18 @@
+.item__container {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    outline: 1px solid;
+}
+
+.item__name {
+    display: inline-block;
+    color: red;
+    padding: 5px;
+}
+
+.item__price {
+    display: inline-block;
+    color: blue;
+    padding: 5px;
+}
