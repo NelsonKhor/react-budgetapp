@@ -1,0 +1,16 @@
+form {
+    border: 1px dotted black;
+    padding: 1rem;
+    margin: 1rem;
+    width: 50%;
+}
+
+.input__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button__container {
+    width: 100%;
+    text-align: right;
+}

@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import BudgetList from './components/BudgetList';
+import BudgetList from './components/UI/BudgetList';
+import NewItem from './components/NewBudget/NewItem';
 
 function App() {
   const budgetData = [
@@ -24,6 +25,7 @@ function App() {
   return (
     <div>
       <h1>Budgeting App</h1>
+      <NewItem />
       <BudgetList budgetData={budgetData}/>
     </div>
   );
