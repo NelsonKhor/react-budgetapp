@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ## Objective
 
-Learn and explore ReactJS functionalities. Trying out CSS preprocessor - SaSS as well.
+Learn and explore ReactJS functionalities. Trying out Material UI as well.
 
 ## Features
 
@@ -26,7 +26,8 @@ Learn and explore ReactJS functionalities. Trying out CSS preprocessor - SaSS as
 
 - React
 - JavaScript
-- SaSS
+- Redux
+- Material UI
 ...
 
 ## Project Status/Improvement
